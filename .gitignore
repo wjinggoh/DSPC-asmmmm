@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DSPC-asmmmm/v17/Browse.VC.db
+/.vs/DSPC-asmmmm/v17/Browse.VC.db-shm
+/.vs/DSPC-asmmmm/v17/Browse.VC.db-wal
+/.vs/DSPC-asmmmm/v17/Browse.VC.opendb
+/.vs/DSPC-asmmmm/FileContentIndex/03befe57-5622-4810-8a87-4301dd4ec50c.vsidx
+/.vs/DSPC-asmmmm/v17/.wsuo
